@@ -1,5 +1,7 @@
 # Kotlin-application
-◦画面仕様書の中で実装できたもの　　
+◦画面仕様書の中で実装できたもの
+
+
 ・TODO一覧画面からFloatingActionButton押下によってTODO追加画面に遷移する
 ・TODO追加画面におけるTODOのタイトル入力
 ・TODO追加画面からTODO一覧画面へ戻るボタン
